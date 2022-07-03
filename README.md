@@ -1,4 +1,4 @@
-# Cab-driver
+# Cab Driver - Profit Maximization (Reinforcement Learning)
 Taking long-term profit as the goal, based on reinforcement learning optimize taxi driving strategies for profit maximization.
 
 ## Problem Statement
